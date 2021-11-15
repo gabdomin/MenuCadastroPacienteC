@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636322608 source:c:\users\dell\desktop\testes\menucadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
